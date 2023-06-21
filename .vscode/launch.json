@@ -1,0 +1,147 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "collection_class",
+            "request": "launch",
+            "mainClass": "collection_class",
+            "projectName": "JAVA_5eaaf757"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch _10_marks_and_grades",
+            "request": "launch",
+            "mainClass": "_10_marks_and_grades",
+            "projectName": "JAVA_5eaaf757"
+        },
+        {
+            "type": "java",
+            "name": "Launch _11_fibonacci",
+            "request": "launch",
+            "mainClass": "_11_fibonacci",
+            "projectName": "JAVA_5eaaf757"
+        },
+        {
+            "type": "java",
+            "name": "Launch _12_2d_array",
+            "request": "launch",
+            "mainClass": "_12_2d_array",
+            "projectName": "JAVA_5eaaf757"
+        },
+        {
+            "type": "java",
+            "name": "Launch _13_for_each_loop",
+            "request": "launch",
+            "mainClass": "_13_for_each_loop",
+            "projectName": "JAVA_5eaaf757"
+        },
+        {
+            "type": "java",
+            "name": "Launch _14_anonymous_arrays",
+            "request": "launch",
+            "mainClass": "_14_anonymous_arrays",
+            "projectName": "JAVA_5eaaf757"
+        },
+        {
+            "type": "java",
+            "name": "Launch _15_reversing_string",
+            "request": "launch",
+            "mainClass": "_15_reversing_string",
+            "projectName": "JAVA_5eaaf757"
+        },
+        {
+            "type": "java",
+            "name": "Launch _16_check_anagram",
+            "request": "launch",
+            "mainClass": "_16_check_anagram",
+            "projectName": "JAVA_5eaaf757"
+        },
+        {
+            "type": "java",
+            "name": "Launch _17_check_pangram",
+            "request": "launch",
+            "mainClass": "_17_check_pangram",
+            "projectName": "JAVA_5eaaf757"
+        },
+        {
+            "type": "java",
+            "name": "Launch _3_prime_yes_no",
+            "request": "launch",
+            "mainClass": "_3_prime_yes_no",
+            "projectName": "JAVA_5eaaf757"
+        },
+        {
+            "type": "java",
+            "name": "Launch _4_print_pattern2",
+            "request": "launch",
+            "mainClass": "_4_print_pattern2",
+            "projectName": "JAVA_5eaaf757"
+        },
+        {
+            "type": "java",
+            "name": "Launch _6_guesser_game",
+            "request": "launch",
+            "mainClass": "_6_guesser_game",
+            "projectName": "JAVA_5eaaf757"
+        },
+        {
+            "type": "java",
+            "name": "Launch _7_prime_factor",
+            "request": "launch",
+            "mainClass": "_7_prime_factor",
+            "projectName": "JAVA_5eaaf757"
+        },
+        {
+            "type": "java",
+            "name": "Launch _8_palindrome",
+            "request": "launch",
+            "mainClass": "_8_palindrome",
+            "projectName": "JAVA_5eaaf757"
+        },
+        {
+            "type": "java",
+            "name": "Launch ok",
+            "request": "launch",
+            "mainClass": "ok",
+            "projectName": "JAVA_5eaaf757"
+        },
+        {
+            "type": "java",
+            "name": "Launch q1_remove_duplicates",
+            "request": "launch",
+            "mainClass": "q1_remove_duplicates",
+            "projectName": "JAVA_5eaaf757"
+        },
+        {
+            "type": "java",
+            "name": "Launch q2_print_duplicates",
+            "request": "launch",
+            "mainClass": "q2_print_duplicates",
+            "projectName": "JAVA_5eaaf757"
+        },
+        {
+            "type": "java",
+            "name": "Launch q3_check_palindrome",
+            "request": "launch",
+            "mainClass": "q3_check_palindrome",
+            "projectName": "JAVA_5eaaf757"
+        },
+        {
+            "type": "java",
+            "name": "Launch q4",
+            "request": "launch",
+            "mainClass": "q4",
+            "projectName": "JAVA_5eaaf757"
+        }
+    ]
+}
